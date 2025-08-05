@@ -131,9 +131,9 @@ item.agave Agave
 item.cactus_flower Kaktusblomma
 item.cactus_small Liten kaktus
 item.cactus Kaktus
-item.maple_sapling Lönnplanta
-item.oak_sapling Ekplanta
-item.birch_sapling Björkplanta
+item.maple_sapling Lönnäsa
+item.oak_sapling Ekollon
+item.birch_sapling Björkhänge
 item.frost_algae Frostalger
 item.slime_algae Slemalger
 item.pine_leaves Barr
@@ -179,7 +179,7 @@ item.speed_boots Springskor
 item.speed_boots.desc Med de här orkar du springa omkring.
 item.oak_log Ekstock
 item.pine_log Granstock
-item.pine_sapling Granplanta
+item.pine_sapling Grankotte
 item.birch_planks Björkplankor
 item.maple_planks Lönnplankor
 item.pine_planks Granplankor
