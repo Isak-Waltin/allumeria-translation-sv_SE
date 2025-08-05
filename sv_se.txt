@@ -365,11 +365,11 @@ settings.master_volume Huvudvolym
 settings.max_mesh_threads Maximalt antal mesh-trådar
 settings.max_mesh_uploads Maximalt antal meshuppladdningar/bildruta
 settings.show_control_hints Visa kontrolltips
-settings.auto_scale_ui Autoskala UI
-settings.manual_ui_scale Mauell UI-skala
+settings.auto_scale_ui Autoskala gränsnitt
+settings.manual_ui_scale Mauell gränsnittsskala
 settings.world_volume Världsvolym
 settings.music_volume Musikvolym
-settings.ui_volume UI-/spelarvolym
+settings.ui_volume Gränssnitts-/spelarvolym
 settings.ambient_volume Omgivningsvolym
 settings.autosave_interval Autospar-intervall (minuter)
 settings.autosave_enabled Autosparar
