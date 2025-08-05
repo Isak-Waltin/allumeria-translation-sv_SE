@@ -315,7 +315,7 @@ item.minecart.desc Sätt ut på räls för att åka.
 item.underground_bush Undervegetationsbuske
 item.undergrowth_rock Undervegetationssten
 item.forest_flower Skogsblomma
-item.lava_lily Lavalilja
+item.lava_lily Lavanäckros
 item.bubble_glass Bubbelglas
 item.undergrowth_crate Undervegetationslåda
 item.spike_trap Spikfälla
