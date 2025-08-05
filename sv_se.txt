@@ -1,537 +1,537 @@
-item.copper_pickaxe Copper Pickaxe
-item.copper_sword Copper Sword
-item.copper_axe Copper Axe
-item.copper_ingot Copper Ingot
-item.iron_ingot Iron Ingot
-item.health_potion Health Potion
-item.empty Empty
-item.stone Stone
-item.unknown Unknown
-item.dirt Dirt
-item.grass Grass
-item.planks Planks
-item.water Water
+item.copper_pickaxe Kopparhacka
+item.copper_sword Kopparsvärd
+item.copper_axe Kopparyxa
+item.copper_ingot Koppartacka
+item.iron_ingot Järntacka
+item.health_potion Hälsobrygd
+item.empty Tom
+item.stone Sten
+item.unknown Okänd
+item.dirt Jord
+item.grass Gräs
+item.planks Plankor
+item.water Vatten
 item.sand Sand
-item.lamp_warm Warm Lamp
-item.lamp_white White Lamp
-item.lamp_blue Blue Lamp
+item.lamp_warm Varm lampa
+item.lamp_white Vit lampa
+item.lamp_blue Blå lampa
 item.lava Lava
-item.blockMetaDataTest Metadata Test Block
-item.log Log
-item.leaves Leaves
-item.grass_tall Tall Grass
-item.workbench Workbench
-item.workbench.desc Can make more complex items
-item.worldBorder World Border
-item.worldBorder.desc If you were able to obtain this you are either cheating or my game is broken ):
-item.copper_ore Copper Ore
-item.copper_ore.desc Can be smelted into bars
-item.iron_ore Iron Ore
-item.iron_ore.desc Can be smelted into bars
-item.coal_ore Coal Ore
-item.furnace Furnace
-item.glowing_mushroom Glowing Mushroom
-item.torch Torch
-item.crate Crate
-item.stone_brick Stone Brick
-item.glass Glass
-item.stone_brick_small Small Stone Brick
-item.clay Clay
-item.clay_brick_small Clay Brick
-item.copper_plated_stone Copper Plated Stone
-item.iron_plated_stone Iron Plated Stone
-item.flint_pickaxe Flint Pickaxe
-item.flint_sword Flint Sword
-item.flint_axe Flint Axe
-item.core Core
-item.flint Flint
-item.iron_pickaxe Iron Pickaxe
-item.iron_sword Iron Sword
-item.iron_axe Iron Axe
-item.red_mushroom Red Mushroom
-item.allumerium_ore Allumerium Ore
-item.chest Chest
-item.silver_pickaxe Silver Pickaxe
-item.silver_sword Silver Sword
-item.silver_axe Silver Axe
-item.gold_pickaxe Gold Pickaxe
-item.gold_sword Gold Sword
-item.gold_axe Gold Axe
-item.silver_ingot Silver Ingot
-item.gold_ingot Gold Ingot
-item.sandstone Sandstone
-item.snow Snow
-item.ice Ice
-item.silver_ore Silver Ore
-item.gold_ore Gold Ore
-item.silver_plated_stone Silver Plated Stone
-item.gold_plated_stone Gold Plated Stone
-item.sandstone_brick Sandstone Brick
-item.snow_brick Snow Brick
-item.stone_block Stone Block
-item.lamp_red Red Lamp
-item.lamp_green Green Lamp
-item.flint_hammer Hammer
-item.flint_hammer.desc Can change the shape of blocks
+item.blockMetaDataTest Metadata-testblock
+item.log Stock
+item.leaves Löv
+item.grass_tall Högt gräs
+item.workbench Arbetsbänk
+item.workbench.desc Kan tillverka avancerade föremål
+item.worldBorder Världsgräns
+item.worldBorder.desc Om du lyckats skaffa det här har du antingen fuskat, eller så är mitt spel trasigt :(
+item.copper_ore Kopparmalm
+item.copper_ore.desc Kan smältas ned till tackor
+item.iron_ore Järnmalm
+item.iron_ore.desc Kan smältas ned till tackor
+item.coal_ore Kolmalm
+item.furnace Ugn
+item.glowing_mushroom Lyssvamp
+item.torch Fackla
+item.crate Låda
+item.stone_brick Mursten
+item.glass Glas
+item.stone_brick_small Liten mursten
+item.clay Lera
+item.clay_brick_small Lertegelsten
+item.copper_plated_stone Kopparbeklädd sten
+item.iron_plated_stone Järnbeklädd sten
+item.flint_pickaxe Flinthacka
+item.flint_sword Flintsvärd
+item.flint_axe Flintyxa
+item.core Kärna
+item.flint Flinta
+item.iron_pickaxe Järnhacka
+item.iron_sword Järnsvärd
+item.iron_axe Järnyxa
+item.red_mushroom Röd svamp
+item.allumerium_ore Allumeriummalm
+item.chest Kista
+item.silver_pickaxe Silverhacka
+item.silver_sword Silversvärd
+item.silver_axe Silveryxa
+item.gold_pickaxe Guldhacka
+item.gold_sword Guldsvärd
+item.gold_axe Guldyxa
+item.silver_ingot Silvertacka
+item.gold_ingot Guldtacka
+item.sandstone Sandsten
+item.snow Snö
+item.ice Is
+item.silver_ore Silvermalm
+item.gold_ore Guldmalm
+item.silver_plated_stone Silverbeklädd sten
+item.gold_plated_stone Guldbeklädd sten
+item.sandstone_brick Sandstensbyggnadssten
+item.snow_brick Snöbyggnadssten
+item.stone_block Stenblock
+item.lamp_red Röd lampa
+item.lamp_green Grön lampa
+item.flint_hammer Hammare
+item.flint_hammer.desc Kan ändra form på block
 item.bagel Bagel
-item.everything_bagel Everything Bagel
-item.everything_bagel.desc One with everything.
-item.blueberry Blueberry
-item.birch_log Birch Log
-item.maple_log Maple Log
-item.maple_leaves Maple Leaves
-item.blueberry_bush Blueberry Bush
-item.light_sponge Light Sponge
-item.light_sponge.desc Currently Broken ):
-item.door Door
+item.everything_bagel Allt-Bagel
+item.everything_bagel.desc Ett med allt. Och en med allt.
+item.blueberry Blåbär
+item.birch_log Björkstock
+item.maple_log Lönnstock
+item.maple_leaves Lönnlöv
+item.blueberry_bush Blåbärsris
+item.light_sponge Ljustvättsvamp
+item.light_sponge.desc Ur funktion ):
+item.door Dörr
 
-item.copper_helmet Copper Helmet
-item.iron_helmet Iron Helmet
-item.silver_helmet Silver Helmet
-item.gold_helmet Gold Helmet
+item.copper_helmet Kopparhjälm
+item.iron_helmet Järnhjälm
+item.silver_helmet Silverhjälm
+item.gold_helmet Guldhjälm
 
-item.copper_chestplate Copper Chestplate
-item.iron_chestplate Iron Chestplate
-item.silver_chestplate Silver Chestplate
-item.gold_chestplate Gold Chestplate
-item.copper_greaves Copper Greaves
-item.iron_greaves Iron Greaves
-item.silver_greaves Silver Greaves
-item.gold_greaves Gold Greaves
-item.dynamite Dynamite
-item.dynamite.desc Great for playing catch
-item.daffodil Daffodil
-item.rose Rose
-item.dandelion Dandelion
-item.cobblestone Cobblestone
-item.potion_station Potion Station
-item.cooking_station Cooking Station
-item.stair_test Stair Test
-item.slab_test Slab Test
-item.fence_test Fence Test
-item.branch_test Branch Test
-item.ladder Ladder
-item.dynamite_block Dynamite Block
-item.dynamite_block.desc Would you like to explode!?
-item.cactus_sword Cactus Sword
-item.wood_bow Wood Bow
-item.slingshot Slingshot
-item.arrow Arrow
-item.rock Rock
-item.shuriken Shuriken
-item.dart Dart
-item.wand Wand
-item.wand.desc Used to select two points for commands.
-item.frozen_stone Frozen Stone
-item.grass_tall_snowy Snowy Grass
-item.grass_tall_dry Dry Grass
-item.dead_bush Dead Bush
-item.desert_bush Desert Bush
+item.copper_chestplate Kopparharnesk
+item.iron_chestplate Järnharnesk
+item.silver_chestplate Silverharnesk
+item.gold_chestplate Guldharnesk
+item.copper_greaves Kopparbenskenor
+item.iron_greaves Järnbenskenor
+item.silver_greaves Silverbenskenor
+item.gold_greaves Guldbenskenor
+item.dynamite Dynamit
+item.dynamite.desc Tänk snabbt!
+item.daffodil Påsklilja
+item.rose Ros
+item.dandelion Maskros
+item.cobblestone Kullersten
+item.potion_station Brygdstation
+item.cooking_station Matlagningsstation
+item.stair_test Testtrappa
+item.slab_test Testplatta
+item.fence_test Teststaket
+item.branch_test Testgren
+item.ladder Stege
+item.dynamite_block Dynamitblock
+item.dynamite_block.desc Vill du sprängas!?
+item.cactus_sword Kaktussvärd
+item.wood_bow Träpilbåge
+item.slingshot Slangbella
+item.arrow Pil
+item.rock Sten
+item.shuriken Kaststjärna
+item.dart Dartpil
+item.wand Trollstav
+item.wand.desc Används för att markera två platser för kommandon.
+item.frozen_stone Frusen sten
+item.grass_tall_snowy Snöigt gräs
+item.grass_tall_dry Torrt gräs
+item.dead_bush Vissen buske
+item.desert_bush Ökenbuske
 item.agave Agave
-item.cactus_flower Cactus Flower
-item.cactus_small Small Cactus
-item.cactus Cactus
-item.maple_sapling Maple Sapling
-item.oak_sapling Oak Sapling
-item.birch_sapling Birch Sapling
-item.frost_algae Frost Algae
-item.slime_algae Slime Algae
-item.pine_leaves Pine Leaves
-item.forest_pickaxe Forest Pickaxe
-item.forest_pickaxe.desc Always dig straight down :)
-item.entwiner Entwiner
-item.entwiner.desc Magically entwines a trigger to a destination.
-item.heart_beet Heart Beet
-item.heart_beet.desc Increases max health by 1 Heart!
-item.iron_chest Iron Chest
-item.gold_chest Gold Chest
-item.dungeon_bricks Forest Dungeon Bricks
-item.dungeon_grate Forest Dungeon Grate
-item.dungeon_lamp Dungeon Lamp
-item.dungeon_lamp_blue Blue Dungeon Lamp
-item.dungeon_pressure_plate Dungeon Pressure Plate
-item.dungeon_door Dungeon Door
-item.pressure_plate Pressure Plate
-item.button Button
-item.splitter Splitter
-item.splitter.desc Splits a signal to adjacent blocks.
-item.pulser Pulser
-item.pulser.desc Extends an entwinement pulse.
-item.dart_trap Dart Trap
-item.dart_trap.desc Shoots poison darts.
+item.cactus_flower Kaktusblomma
+item.cactus_small Liten kaktus
+item.cactus Kaktus
+item.maple_sapling Lönnplanta
+item.oak_sapling Ekplanta
+item.birch_sapling Björkplanta
+item.frost_algae Frostalger
+item.slime_algae Slemalger
+item.pine_leaves Barr
+item.forest_pickaxe Skogshacka
+item.forest_pickaxe.desc Gräv alltid rakt nedåt :)
+item.entwiner Hopflätare
+item.entwiner.desc Flätar ihop en utlösare med en destination, magiskt.
+item.heart_beet Blödbeta
+item.heart_beet.desc Ökar maxhälsan med 1 hjärta!
+item.iron_chest Järnkista
+item.gold_chest Guldkista
+item.dungeon_bricks Skogsfästningsbyggnadssten
+item.dungeon_grate Skogsfästningsgaller
+item.dungeon_lamp Fästningslampa
+item.dungeon_lamp_blue Blå fästningslampa
+item.dungeon_pressure_plate Fästningstryckplatta
+item.dungeon_door Fästningsdörr
+item.pressure_plate Tryckplatta
+item.button Knapp
+item.splitter Delare
+item.splitter.desc Delar upp en signal mellan närliggande block.
+item.pulser Pulserare
+item.pulser.desc Förlänger en hopflätningspuls.
+item.dart_trap Pilfälla
+item.dart_trap.desc Skjuter giftpilar.
 
-item.thorn_blade Thorn Blade
-item.regen_charm Stone of Regeneration
-item.regen_charm.desc Restores 1 HP every 4 seconds.
-item.jet_boots Jet Boots
-item.jet_boots.desc Jump in mid air to activate, has 1 second of fuel.
-item.spring_boots Spring Boots
-item.spring_boots.desc Increases jump height to 2m.
-item.paraglider Paraglider
-item.paraglider.desc Decend slowly from great heights.
-item.jumping_bean Jumping Bean
-item.jumping_bean.desc Increase melee damage by 20%, with a catch.
+item.thorn_blade Taggklinga
+item.regen_charm Återhämtningssten
+item.regen_charm.desc Återställer 1 HP var 4:e sekund.
+item.jet_boots Jetstövlar
+item.jet_boots.desc Hoppa mitt i luften för att aktivera. Håller i 1 sekund.
+item.spring_boots Fjäderskor
+item.spring_boots.desc Ökar hopphöjden till 2 meter.
+item.paraglider Flygskärm
+item.paraglider.desc Glid sakta ned från höga höjder.
+item.jumping_bean Hoppböna
+item.jumping_bean.desc Ökar närstridsskada med 20 %. Med en hake.
 item.sneakers Sneakers
-item.sneakers.desc Lets you sneak around.
-item.gecko_gloves Gecko Gloves
-item.gecko_gloves.desc Wearing these gloves lets you climb up surfaces.
-item.speed_boots Boots of Sprinting
-item.speed_boots.desc Wearing these gives you the energy to run around.
-item.oak_log Oak Log
-item.pine_log Pine Log
-item.pine_sapling Pine Sapling
-item.birch_planks Birch Planks
-item.maple_planks Maple Planks
-item.pine_planks Pine Planks
-item.framed_glass Framed Glass
-item.red_brick Red Brick
-item.lamp_cyan Cyan Lamp
-item.lamp_magenta Magenta Lamp
-item.lamp_yellow Yellow Lamp
-item.copper_bars Copper Bars
-item.iron_bars Iron Bars
-item.silver_bars Silver Bars
-item.gold_bars Gold Bars
-item.concrete Concrete
-item.concrete.desc 1.2x movement speed buff
-item.asphalt Asphalt
-item.asphalt.desc 1.2x movement speed buff
-item.thick_birch_log Thick Birch Log
-item.thick_maple_log Thick Maple Log
-item.thick_oak_log Thick Oak Log
-item.thick_pine_log Thick Pine Log
-item.trampoline Trampoline
-item.trampoline.desc Lets you bounce really high.
-item.launch_pad Launch Pad
-item.launch_pad.desc Launches you into the air.
-item.cloth Cloth
-item.cloth_light_grey Light Grey Cloth
-item.cloth_dark_grey Dark Grey Cloth
-item.cloth_black Black Cloth
-item.cloth_red Red Cloth
-item.cloth_orange Orange Cloth
-item.cloth_yellow Yellow Cloth
-item.cloth_lime Lime Cloth
-item.cloth_green Green Cloth
-item.cloth_cyan Cyan Cloth
-item.cloth_blue Blue Cloth
-item.cloth_dark_blue Dark Blue Cloth
-item.cloth_purple Purple Cloth
-item.cloth_pink Pink Cloth
-item.cloth_light_pink Light Pink Cloth
-item.cloth_brown Brown Cloth
+item.sneakers.desc Låter dig smyga onkring.
+item.gecko_gloves Geckohandskar
+item.gecko_gloves.desc Med de här kan du klättra på väggar.
+item.speed_boots Springskor
+item.speed_boots.desc Med de här orkar du springa omkring.
+item.oak_log Ekstock
+item.pine_log Granstock
+item.pine_sapling Granplanta
+item.birch_planks Björkplankor
+item.maple_planks Lönnplankor
+item.pine_planks Granplankor
+item.framed_glass Inramat glas
+item.red_brick Röd tegelsten
+item.lamp_cyan Turkos lampa
+item.lamp_magenta Magenta lampa
+item.lamp_yellow Gul lampa
+item.copper_bars Koppargaller
+item.iron_bars Järngaller
+item.silver_bars Silvergaller
+item.gold_bars Guldgaller
+item.concrete Betong
+item.concrete.desc 1.2x hastighetsökning
+item.asphalt Asfalt
+item.asphalt.desc 1.2x hastighetsökning
+item.thick_birch_log Grov björkstock
+item.thick_maple_log Grov lönnstock
+item.thick_oak_log Grov ekstock
+item.thick_pine_log Grov granstock
+item.trampoline Trampolin
+item.trampoline.desc Låter dig studsa jättehögt.
+item.launch_pad Uppskjutningsplatta
+item.launch_pad.desc Skjuter upp dig i luften.
+item.cloth Tyg
+item.cloth_light_grey Ljusgrått tyg
+item.cloth_dark_grey Mörkgrått tyg
+item.cloth_black Svart tyg
+item.cloth_red Rött tyg
+item.cloth_orange Orange tyg
+item.cloth_yellow Gult tyg
+item.cloth_lime Limegrönt tyg
+item.cloth_green Grönt tyg
+item.cloth_cyan Turkost tyg
+item.cloth_blue Blått tyg
+item.cloth_dark_blue Mörkblått tyg
+item.cloth_purple Lila tyg
+item.cloth_pink Rosa tyg
+item.cloth_light_pink Ljusrosa tyg
+item.cloth_brown Brunt tyg
 
-item.weak_health_potion Weak Health Potion
-item.weak_health_potion.desc Restores 10 HP
-item.poison_potion Potion of Poison
-item.poison_potion.desc Drinking is not recommended!
-item.speed_potion Potion of Speed
-item.regen_potion Potion of Regeneration
-item.regen_potion.desc Slowly recover hearts for 5 minutes.
-item.armour_potion Armoured Potion
-item.armour_potion.desc Increases your defence by 4 points for 5 minutes.
-item.respawn_potion Potion of Returning
-item.respawn_potion.desc Potion of Returning
-item.flight_potion Potion of Flight
-item.flight_potion Allows you to do a short rocket boost for 1 minute.
-item.cure_cube Cube of Curing
-item.cure_cube.desc Equipping this makes you immune to poison.
-item.cotton_plant Cotton Plant
-item.cotton_plant.desc Can be planted, and harvested.
-item.decoration_station Decoration Station
-item.decoration_station.desc Used to craft decorative blocks.
-item.dungeon_spawner Dungeon Spawner
-item.copper_bow Copper Bow
-item.iron_bow Iron Bow
-item.silver_bow Silver Bow
-item.gold_bow Gold Bow
-item.copper_crossbow Copper Crossbow
-item.iron_crossbow Iron Crossbow
-item.silver_crossbow Silver Crossbow
-item.gold_crossbow Gold Crossbow
-item.reinforced_arrow Reinforced Arrow
-item.flaming_arrow Flaming Arrow
-item.explosive_arrow Explosive Arrow
-item.root_arrow Arrow Root
-item.rock_melon Rock Melon
-item.watermelon Watermelon
-item.brick Brick
-item.brick.desc To throw at things you dont like
-item.throwable_torch Throwable Torch
-item.squeaky_toy Squeaky Toy
-item.whoopee_cushion Whoopee Cushion
-item.air_horn Air Horn
-item.glow_worms Glow Worms
-item.heart_beet_block Heart Beet (Block)
-item.sandstone_brick_small Small Sandstone Bricks
-item.toy_crate Toy Crate
+item.weak_health_potion Svag hälsobrygd
+item.weak_health_potion.desc Återställer 10 HP
+item.poison_potion Giftbrygd
+item.poison_potion.desc Drick helst inte!
+item.speed_potion Snabbhetsbrygd
+item.regen_potion Återhämtningsbrygd
+item.regen_potion.desc Ger sakta tillbaka härtan under 5 minuter.
+item.armour_potion Förstärkt brygd
+item.armour_potion.desc Ökar ditt skydd med 4, i 5 minuter.
+item.respawn_potion Återvändsbrygd
+item.respawn_potion.desc Teleporterar dig hem.
+item.flight_potion Flygbrygd
+item.flight_potion.desc Ger dig förmågan till korta flygturer under 1 minut.
+item.cure_cube Motgiftskub
+item.cure_cube.desc Utrustad med den här blir du immun mot gift.
+item.cotton_plant Bomullsplanta
+item.cotton_plant.desc Kan planteras och skördas.
+item.decoration_station Dekorationsstation
+item.decoration_station.desc Används för att tillverka dekorativa block.
+item.dungeon_spawner Fängelsehålemonsterskapare
+item.copper_bow Kopparpilbåge
+item.iron_bow Järnpilbåge
+item.silver_bow Silverpilbåge
+item.gold_bow Guldpilbåge
+item.copper_crossbow Koppararmborst
+item.iron_crossbow Järnarmborst
+item.silver_crossbow Silverarmborst
+item.gold_crossbow Guldarmborst
+item.reinforced_arrow Förstärkt pil
+item.flaming_arrow Eldpil
+item.explosive_arrow Explosiv pil
+item.root_arrow Pilrot
+item.rock_melon Stenmelon
+item.watermelon Vattenmelon
+item.brick Tegelsten
+item.brick.desc För att kasta på saker du inte tycker om
+item.throwable_torch Kastfackla
+item.squeaky_toy Pipleksak
+item.whoopee_cushion Pruttkudde
+item.air_horn Tuta
+item.glow_worms Lysmaskar
+item.heart_beet_block Blödbeta (Block)
+item.sandstone_brick_small Små sandstensbyggnadstenar
+item.toy_crate Leksakslåda
 item.sprinkler Sprinkler
-item.soil Dry Soil
-item.wet_soil Wet Soil
-item.arrow_root_seed Arrow Root Seed
-item.bomb_berry_seed Bomb Berry Seed
-item.rock_melon_seed Rock Melon Seed
-item.watermelon_seed Watermelon Seed
-item.frying_pan Frying Pan
-item.boomerang Boomerang
-item.throwable_glow_bean Glow Bean
-item.watering_can Watering Can
-item.watering_can.desc Always full, because magic.
-item.hoe Hoe
-item.tomato Tomato
-item.bread Bread
-item.wheat Wheat
-item.bomb_berry Bomb Berry
-item.bomb_berry.desc Warning: Do not eat in house.
-item.ominous_deer_skull Ominous Deer Skull
-item.oak_leaves Oak Leaves
-item.placed_glow_bean Glow Bean (Block)
-item.weapon_crate Weapon Crate
-item.forest_chest Forest Chest
-item.tomato_seed Tomato Seed
-item.wheat_seed Wheat Seed
-item.glow_bean_seed Glow Bean Seed
-item.weeds Weeds
-item.spider_web Spider Web
-item.pizza_cutter Pizza Cutter
-item.crowbar Crowbar
-item.melon_slicer Melon Slicer
-item.forest_axe Forest Axe
-item.snowball_cannon Snowball Gun
-item.snowball Snowball
-item.forest_ingot Forest Ingot
-item.eightball Eight Ball
-item.dice Dice
-item.basketball Basketball
-item.bucket Bucket
-item.water_bucket Bucket (Water)
-item.lava_bucket Bucket (Lava)
-item.sponge Sponge
-item.lava_sponge Lava Sponge
-item.forest_blessing Blessing of the Forest
-item.forest_blessing.desc Grants an extra 2 seconds of stamina.
-item.minecart Minecart
-item.minecart.desc Place on a rail to ride.
-item.underground_bush Undergrowth Bush
-item.undergrowth_rock Undergrowth Rock
-item.forest_flower Flower of the Forest
-item.lava_lily Lava Lily
-item.bubble_glass Bubble Glass
-item.undergrowth_crate Undergrowth Crate
-item.spike_trap Spike Trap
-item.dynamite_trap Dynamite Trap
-item.basket_hoop Basketball Hoop
-item.rail Rail
-item.painting_child Painting Metadata Item
-item.painting_melon Painting (Melon)
-item.painting_melon.desc A still life ..or self portrait.
-item.painting_triangle Painting (Triangle)
-item.painting_triangle.desc The fundamental building block for life.
-item.painting_stars Painting (Stars)
-item.painting_pipes Painting (Pipes)
-item.painting_cloud Painting (The Pink Cloud)
-item.painting_waves Painting (Waves)
-item.painting_biome Painting (Biome)
-item.painting_deer Painting (Deer)
-item.spawn_pointer Spawn Pointer
-item.spawn_pointer.desc Right click to set spawn.
-item.forest_helmet Forest Helmet
-item.forest_chestplate Forest Chestplate
-item.forest_greaves Forest Greaves
-item.skull_fragment Skull Fragment
+item.soil Torr jord
+item.wet_soil Fuktig jord
+item.arrow_root_seed Pilrotsfrö
+item.bomb_berry_seed Bombbärsfrö
+item.rock_melon_seed Stenmelonsfrö
+item.watermelon_seed Vattenmelonsfrö
+item.frying_pan Stekpanna
+item.boomerang Bumerang
+item.throwable_glow_bean Lysböna
+item.watering_can Vattenkanna
+item.watering_can.desc Alltid fylld. För att den är magisk.
+item.hoe Flohacka
+item.tomato Tomat
+item.bread Bröd
+item.wheat Vete
+item.bomb_berry Bombbär
+item.bomb_berry.desc Obs! Bör ej ätas inomhus.
+item.ominous_deer_skull Olycksbådande rådjurskranium
+item.oak_leaves Eklöv
+item.placed_glow_bean Lysböna (Block)
+item.weapon_crate Vapenlåda
+item.forest_chest Skogskista
+item.tomato_seed Tomatfrö
+item.wheat_seed Vetefrö
+item.glow_bean_seed Lysbönefrö
+item.weeds Ogräs
+item.spider_web Spindelnät
+item.pizza_cutter Pizzaskärare
+item.crowbar Kofot
+item.melon_slicer Melonskärare
+item.forest_axe Skogsyxa
+item.snowball_cannon Snöbollskanon
+item.snowball Snöboll
+item.forest_ingot Skogstacka
+item.eightball Biljardboll
+item.dice Tärning
+item.basketball Basketboll
+item.bucket Hink
+item.water_bucket Hink (vatten)
+item.lava_bucket Hink (lava)
+item.sponge Tvättsvamp
+item.lava_sponge Lavatvättsvamp
+item.forest_blessing Skogens välsignelse
+item.forest_blessing.desc Ger 2 extra sekunder av uthållighet.
+item.minecart Gruvvagn
+item.minecart.desc Sätt ut på räls för att åka.
+item.underground_bush Undervegetationsbuske
+item.undergrowth_rock Undervegetationssten
+item.forest_flower Skogsblomma
+item.lava_lily Lavalilja
+item.bubble_glass Bubbelglas
+item.undergrowth_crate Undervegetationslåda
+item.spike_trap Spikfälla
+item.dynamite_trap Dynamitfälla
+item.basket_hoop Basketkorg
+item.rail Räls
+item.painting_child Målningsmetadataföremål
+item.painting_melon Målning (Melon)
+item.painting_melon.desc Ett stilleben ...eller självporträtt.
+item.painting_triangle Målning (Triangel)
+item.painting_triangle.desc Livets grundläggande byggsten.
+item.painting_stars Målning (Stjärnor)
+item.painting_pipes Målning (Rör)
+item.painting_cloud Målning (Det rosa molnet)
+item.painting_waves Målning (Vågor)
+item.painting_biome Målning (Biotop)
+item.painting_deer Målning (Rådjur)
+item.spawn_pointer Återfödelsepekare
+item.spawn_pointer.desc Högerklicka för att ställa in återfödelseplats.
+item.forest_helmet Skogshjälm
+item.forest_chestplate Skogsharnesk
+item.forest_greaves Skogsbenskenor
+item.skull_fragment Kraniumflisa
 
 
-item_tag.can_place Placeable
-item_tag.can_consume Single Use
-item_tag.axe_power Axe
-item_tag.pickaxe_power Pickaxe
-item_tag.swing_speed Cooldown
-item_tag.hammer Hammer
-item_tag.cant_mine Can't Mine
-item_tag.restores_health Restores
-item_tag.melee_damage Melee
-item_tag.defence Defence
-item_tag.required_ammo Required Ammo
-item_tag.ammo Ammo
-item_tag.ranged_damage Ranged
-item_tag.trinket Trinket
-item_tag.can_block Can Block
+item_tag.can_place Kan placeras
+item_tag.can_consume Engångs
+item_tag.axe_power Yxa
+item_tag.pickaxe_power Hacka
+item_tag.swing_speed Nedkylning
+item_tag.hammer Hammare
+item_tag.cant_mine Kan inte hugga
+item_tag.restores_health Återställer
+item_tag.melee_damage Närstrid
+item_tag.defence Skydd
+item_tag.required_ammo Ammunition krävs
+item_tag.ammo Ammunition
+item_tag.ranged_damage Avståndsskada
+item_tag.trinket Pryl
+item_tag.can_block Kan blockera
 
-settings.field_of_view Field of View
-settings.max_fps Maximum FPS
-settings.render_distance Render Distance
-settings.mouse_sensitivity Mouse Sensitivity
-settings.master_volume Master Volume
-settings.max_mesh_threads Maximum Mesher Threads
-settings.max_mesh_uploads Maximum Mesh Uploads (Per Frame)
-settings.show_control_hints Show Control Hints
-settings.auto_scale_ui Auto Scale UI
-settings.manual_ui_scale Manual UI Scale
-settings.world_volume World Volume
-settings.music_volume Music Volume
-settings.ui_volume UI/Player Volume
-settings.ambient_volume Ambient Volume
-settings.autosave_interval Autosave Interval (In Minutes)
-settings.autosave_enabled Autosaving
-settings.autosave_indicator Autosave Indicator
-settings.panicsave_enabled Create Recovery Save on Crash
-settings.view_bobbing View Bobbing
-settings.screen_shake Screen Shake
-settings.allow_noclip Allow Noclip
-settings.allow_infinite_item Infinite Items
-settings.allow_creative_menu Allow Creative Menu
-settings.allow_godmode God Mode
-settings.mob_spawning Monster Spawning
+settings.field_of_view Synfält
+settings.max_fps Maximal bildfrekvens
+settings.render_distance Renderingsavstånd
+settings.mouse_sensitivity Muskänslighet
+settings.master_volume Huvudvolym
+settings.max_mesh_threads Maximalt antal mesh-trådar
+settings.max_mesh_uploads Maximalt antal meshuppladdningar/bildruta
+settings.show_control_hints Visa kontrolltips
+settings.auto_scale_ui Autoskala UI
+settings.manual_ui_scale Mauell UI-skala
+settings.world_volume Världsvolym
+settings.music_volume Musikvolym
+settings.ui_volume UI-/spelarvolym
+settings.ambient_volume Omgivningsvolym
+settings.autosave_interval Autospar-intervall (minuter)
+settings.autosave_enabled Autosparar
+settings.autosave_indicator Autospar-indikator
+settings.panicsave_enabled Skapa återställningsfil vid krasch
+settings.view_bobbing Gunga vy
+settings.screen_shake Skaka skärm
+settings.allow_noclip Tillåt kollisionsfrihet
+settings.allow_infinite_item Oändliga föremål
+settings.allow_creative_menu Tillåt kreativ meny
+settings.allow_godmode Gudläge
+settings.mob_spawning Monster uppstår
 
-settings_category.video Video
-settings_category.audio Audio
-settings_category.controls Controls
-settings_category.misc Misc
-settings_category.keybinds Keybinds
-settings_category.cheats Cheats
+settings_category.video Bild
+settings_category.audio Ljud
+settings_category.controls Kontroller
+settings_category.misc Allmänt
+settings_category.keybinds Tangentbindningar
+settings_category.cheats Fusk
 
-control_hint.open_inventory Open Inventory
-control_hint.close_inventory Close Inventory
-control_hint.close_menu Close Menu
-control_hint.split_stack Split Stack
-control_hint.take_stack Take Stack
-control_hint.drop_one Drop One
-control_hint.drop_stack Drop Stack
-control_hint.craft_one Craft One
-control_hint.toggle_creative Toggle Creative
-control_hint.use Use
-control_hint.use_item Use Item
-control_hint.place_item Place Item
-control_hint.punch Punch
-control_hint.unequip Equip
-control_hint.equip Unequip
-control_hint.change_shape Change Shape
+control_hint.open_inventory Öppna förråd
+control_hint.close_inventory Stäng förråd
+control_hint.close_menu Stäng meny
+control_hint.split_stack Dela upp stapel
+control_hint.take_stack Ta stapel
+control_hint.drop_one Släpp en
+control_hint.drop_stack Släpp stapel
+control_hint.craft_one Tillverka en
+control_hint.toggle_creative Kreativt läge på/av
+control_hint.use Använd
+control_hint.use_item Använd föremål
+control_hint.place_item Placera föremål
+control_hint.punch Slå
+control_hint.unequip Ta på
+control_hint.equip Ta av
+control_hint.change_shape Ändra form
 
-keybind.move_forward Move Forward
-keybind.move_backward Move Backward
-keybind.move_left Move Left
-keybind.move_right Move Right
-keybind.fly_down Fly Up
-keybind.fly_up Fly Down
-keybind.jump Jump
-keybind.noclip Noclip
-keybind.place Place / Use
-keybind.punch Punch
-keybind.place_modifier Place Modifier
-keybind.open_inventory Open Inventory
-keybind.toggle_creative_menu Toggle Creative Menu
-keybind.drop_item Drop Item
-keybind.drop_modifier Drop Item Modifier
-keybind.pause Pause
-keybind.ui_confirm UI Confirm
-keybind.ui_secondary UI Secondary
-keybind.toggle_debug Toggle Debug Overlay
-keybind.toggle_profiler Toggle Profiler Overlay
-keybind.toggle_fullscreen Toggle Fullscreen
-keybind.ui_up UI Up
-keybind.ui_down UI Down
-keybind.ui_left UI Left
-keybind.ui_right UI Right
-keybind.hotbar1 Hotbar Slot 1
-keybind.hotbar2 Hotbar Slot 2
-keybind.hotbar3 Hotbar Slot 3
-keybind.hotbar4 Hotbar Slot 4
-keybind.hotbar5 Hotbar Slot 5
-keybind.hotbar6 Hotbar Slot 6
-keybind.hotbar7 Hotbar Slot 7
-keybind.hotbar8 Hotbar Slot 8
-keybind.hotbar9 Hotbar Slot 9
-keybind.hotbar10 Hotbar Slot 10
-keybind.hotbar11 Hotbar Slot 11
-keybind.hotbar12 Hotbar Slot 12
-keybind.open_chat Open Chat
-keybind.send_chat Send Message
-keybind.toggle_hud Toggle HUD
-keybind.take_screenshot Take Screenshot
-keybind.open_radial Open Radial Menu
-keybind.sneak Sneak
-keybind.sprint Sprint
-keybind.show_use Show Item Uses
-keybind.show_recipe Show Item Recipes
-keybind.pick_block Pick Block
-keybind.scroll_up Scroll Up
-keybind.scroll_down Scroll Down
-keybind.favourite_item Favourite Item
+keybind.move_forward Gå framåt
+keybind.move_backward Gå bakåt
+keybind.move_left Gå vänster
+keybind.move_right Gå höger
+keybind.fly_down Flyg uppåt
+keybind.fly_up Flyg nedåt
+keybind.jump Hoppa
+keybind.noclip Kollisionsfrihet
+keybind.place Placera / använd
+keybind.punch Slå
+keybind.place_modifier Placera modifierare
+keybind.open_inventory Öppna förråd
+keybind.toggle_creative_menu Kreativ meny på/av
+keybind.drop_item Släpp föremål
+keybind.drop_modifier Släpp föremålsmodiferare
+keybind.pause Pausa
+keybind.ui_confirm Gränssnitt: bekräfta
+keybind.ui_secondary Gränssnitt: sekundär
+keybind.toggle_debug Debuggöverlagring på/av
+keybind.toggle_profiler Profileraröverlägg på/av
+keybind.toggle_fullscreen Fullskärm på/av
+keybind.ui_up Gränssnitt: upp
+keybind.ui_down Gränssnitt: ned
+keybind.ui_left Gränssnitt: vänster
+keybind.ui_right Gränssnitt: höger
+keybind.hotbar1 Föremålsplats 1
+keybind.hotbar2 Föremålsplats 2
+keybind.hotbar3 Föremålsplats 3
+keybind.hotbar4 Föremålsplats 4
+keybind.hotbar5 Föremålsplats 5
+keybind.hotbar6 Föremålsplats 6
+keybind.hotbar7 Föremålsplats 7
+keybind.hotbar8 Föremålsplats 8
+keybind.hotbar9 Föremålsplats 9
+keybind.hotbar10 Föremålsplats 10
+keybind.hotbar11 Föremålsplats 11
+keybind.hotbar12 Föremålsplats 12
+keybind.open_chat Öppna chatt
+keybind.send_chat Skicka meddelande
+keybind.toggle_hud HUD på/av
+keybind.take_screenshot Ta skärmavbild
+keybind.open_radial Öppna radiell meny
+keybind.sneak Smyg
+keybind.sprint Spring
+keybind.show_use Visa föremålets användningar
+keybind.show_recipe Visa föremålets recept
+keybind.pick_block Välj block
+keybind.scroll_up Skrolla upp
+keybind.scroll_down Skrolla ned
+keybind.favourite_item Favoritmarkera föremål
 
-ammo.arrow Arrow
-ammo.rock Rock
-ammo.bullet Bullet
-ammo.snowball Snowball
+ammo.arrow Pil
+ammo.rock Sten
+ammo.bullet Kula
+ammo.snowball Snöboll
 
-effect.poison Poisoned
-effect.desc.poison Deals damage over time.
-effect.regen Regeneration
-effect.desc.regen You heal slowly over time.
-effect.wet Wet
-effect.desc.wet You are soaked in water.
-effect.slowfall Slow Falling
-effect.desc.slowfall You fall slower and don't take fall damage.
-effect.fire On Fire
-effect.desc.fire You are on fire!!!
-effect.healcooldown Recently Healed
-effect.desc.healcooldown You must wait a moment before you can heal again.
-effect.freezing Freezing
-effect.desc.freezing You are taking damage from the cold.
-effect.fast Fast
-effect.desc.fast You can move faster.
-effect.slow Slow
-effect.desc.slow You move slower.
-effect.anchored Anchored
-effect.desc.anchored You are anchored in place.
-effect.frozen Frozen
-effect.desc.frozen You are frozen, and can't do anything!
-effect.watched Watched
+effect.poison Förgiftad
+effect.desc.poison Du tar skada över tid.
+effect.regen Återhämtning
+effect.desc.regen Du återhämtar dig sakta över tid.
+effect.wet Blöt
+effect.desc.wet Du är blöt.
+effect.slowfall Sakta fall
+effect.desc.slowfall Du faller långsamt och tar ingen fallskada.
+effect.fire Brinner
+effect.desc.fire Du brinner!!!
+effect.healcooldown Nyligen helad
+effect.desc.healcooldown Du måste vänta en stund innan du kan hela dig igen.
+effect.freezing Fryser
+effect.desc.freezing Du tar skada av kyla.
+effect.fast Snabb
+effect.desc.fast Du rör dig snabbare.
+effect.slow Långsam
+effect.desc.slow Du rör dig långsammare.
+effect.anchored Förankrad
+effect.desc.anchored Du är fast förankrad på en plats.
+effect.frozen Fastfrusen
+effect.desc.frozen Du är fastfrusen och kan inte göra något!
+effect.watched Iakttagen
 effect.desc.watched ...
-effect.flight Flight
-effect.desc.flight Allows short bursts of flight
-effect.regen_potion Regeneration (Potion)
-effect.desc.regen_potion You are regenerating health slowly.
-effect.armoured Armoured
-effect.desc.armoured Your defence is increased by 4 points.
+effect.flight Flygförmåga
+effect.desc.flight Tillåter korta flygturer
+effect.regen_potion Återhämtning (brygd)
+effect.desc.regen_potion Du återhämtar sakta hälsa.
+effect.armoured Bepansrad
+effect.desc.armoured Ditt skydd ökar med 4.
 
-effect.concussion Concussion
-effect.desc.concussion Ouch! Reduced movement speed.
-effect.snack Light Snack
-effect.desc.snack You had a snack, tiny boost to stats.
-effect.small_meal Small Meal
-effect.desc.small_meal You had a small meal, small boost to stats.
-effect.webbed Webbed
-effect.desc.webbed You are tangled in a spider web.
+effect.concussion Hjärnskakning
+effect.desc.concussion Aj! Minskad rörelseförmåga.
+effect.snack Lätt mellanmål
+effect.desc.snack Du åt mellanmål och har pyttelite bättre värden.
+effect.small_meal Liten måltid
+effect.desc.small_meal Du åt en liten måltid och har lite bättre värden.
+effect.webbed Intrasslad
+effect.desc.webbed Du är intrasslad i ett spindelnät.
 
-crafting_station.inventory By Hand
-crafting_station.work_bench Workbench
-crafting_station.furnace Furnace
-crafting_station.anvil Anvil
-crafting_station.decorations Decoration Station
-crafting_station.potions Potion Station
+crafting_station.inventory För hand
+crafting_station.work_bench Arbetsbänk
+crafting_station.furnace Ugn
+crafting_station.anvil Städ
+crafting_station.decorations Dekorationsstation
+crafting_station.potions Brygdstation
 
-loading.tip0 Enemies will only spawn on naturally generating blocks.
-loading.tip1 Press 'R' to view an item's recipes.
-loading.tip2 Hold 'R' while holding a block to change it's shape.
-loading.tip3 Crops can mutate if you leave empty farmland.
-loading.tip4 Watch out for traps underground and in dungeons.
-loading.tip5 You can place rails upside down and on walls.
-loading.tip6 Torches dont prevent monster spawning underground.
-loading.tip7 Use a Respawn Pointer to set your spawn.
-loading.tip8 Use Returning Potions to return home if you are lost.
-loading.tip9 CRTL click items to send them to the trash slot.
-loading.tip10 You can automatically stack items to nearby chests.
-loading.tip11 You can sort your inventory.
-loading.tip12 Some weapons can block attacks from enemies.
-loading.tip13 Use a Decoration Station to make lots of cool items.
-loading.tip14 Make tools using flint rocks and a Workbench.
-loading.tip15 A strong pickaxe can break through to the other side.
-loading.tip16 Sometimes, it's a good idea to dig straight down.
-loading.tip17 If you find a bug, please report it on the Discord.
-loading.tip18 Have feedback? Join the discord or fill out the feedback form.
-loading.tip19 Tool durability isn't real, and can't hurt you.
-loading.tip20 If you let weeds grow in your garden, they may mutate..
-loading.tip21 Press F11 to toggle fullscreen.
-loading.tip22 Playing basketball during a boss fight can be beneficial.
-loading.tip23 Heart beets can be used to increase your maximum health.
-loading.tip24 Explosive arrows are dangerous in close combat.
+loading.tip0 Fiender uppstår bara på naturligt förekommande block.
+loading.tip1 Tryck på "R" för att visa recepten ett föremål har.
+loading.tip2 Håll in "R" när du håller i ett block för att ändra form på det.
+loading.tip3 Grödor kan muteras om du lämnar kvar tom odligsjord.
+loading.tip4 Se upp för fällor i underjorden och i fästningar.
+loading.tip5 Räls kan placeras upp och ner och på väggar.
+loading.tip6 Facklor hindrar inte monster från att uppstå under marken.
+loading.tip7 Använd en Återfödelsepekare för att ställa in din återfödelseplats.
+loading.tip8 Använd Återvändsbrygder för att återvända hem om du är vilse.
+loading.tip9 CTRL-klicka på föremål för att lägga dem i skräprutan.
+loading.tip10 Du kan stapla föremål till närliggande kistor automatiskt.
+loading.tip11 Du kan sortera ditt förråd.
+loading.tip12 Vissa vapen kan blockera fiendeattacker.
+loading.tip13 Tillverka massor av häftiga föremål i Dekorationsstationen.
+loading.tip14 Tillverka verktyg med flinta och en Arbetsbänk.
+loading.tip15 En kraftfull hacka kan bryta igenom till den andra sidan.
+loading.tip16 Ibland är det ingen dum idé att gräva rakt nedåt.
+loading.tip17 Hittat en bugg? Rapportera den på Discordservern!
+loading.tip18 Har du återkoppling att ge? Gå med i Discordservern eller fyll i feedbackformuläret.
+loading.tip19 Verktyg går inte sönder, du kan vara lugn.
+loading.tip20 Om du låter ogräs växa i trädgården kan det hända att de muterar...
+loading.tip21 Tryck på F11 för att växla mellan fönsterläge och fullskärm.
+loading.tip22 Att spela basket under en bossfajt kan vara nyttigt.
+loading.tip23 Blödbetor kan användas för att öka din maxhälsa.
+loading.tip24 Explosiva pilar är farliga i närstrid.
